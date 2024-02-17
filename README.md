@@ -3,6 +3,7 @@
 <details>
   <summary>✅ Accomplished (click to expand):</summary>
 
+---
 
 - 📦 Develop a backend api
 - 🛠️ Develop an application with physical hardware integration
@@ -17,6 +18,7 @@
 <details>
   <summary>⏳ Currently working on:</summary>
 
+---
 
 - 📖 Develop and support a larger and more robust library or DSL
 - 🚄 Develop a project where dynamic code generation is used to improve performance
@@ -26,12 +28,14 @@
 <details>
   <summary>🔭 Planning to do:</summary>
 
+---
 
 - 💼 Internship in a software company
 - 📱 Develop a full reactive mobile application using the latest technologies
 - 🎓 Build a personal website
-- 🕹️ Develop an indie game with an external tool like GameMakerStudio (for platformers mostly) and more advanced tools
-  like Unity or Unreal Engine. It includes designing the characters and the world, creating the story, and developing
+- 🕹️ Develop an indie game with an external tool like [GameMaker](https://gamemaker.io/en) (for platformers mostly) and more advanced tools
+  like [Unity](https://unity.com/) or [Unreal Engine](https://www.unrealengine.com/en-US/). It includes designing the
+  characters and the world, creating the story, and developing
   the game mechanics
 - 🚀 Develop, launch and maintain a fully-fledged product
 - 🤖 Work on a Machine learning or AI project
@@ -44,6 +48,7 @@
 <details>
   <summary>🛩️ Interests and hobbies:</summary>
 
+---
 
 - **🎮 Avid Gamer:**
   Enthusiastically immersed in everything about the gaming world in most genres and platforms,
