@@ -3,7 +3,7 @@
 <details>
   <summary>✅ Accomplished (click to expand):</summary>
 
----
+<br>
 
 - 📦 Develop a backend api
 - 🛠️ Develop an application with physical hardware integration
@@ -18,7 +18,7 @@
 <details>
   <summary>⏳ Currently working on:</summary>
 
----
+<br>
 
 - 📖 Develop and support a larger and more robust library or DSL
 - 🚄 Develop a project where dynamic code generation is used to improve performance
@@ -28,7 +28,7 @@
 <details>
   <summary>🔭 Planning to do:</summary>
 
----
+<br>
 
 - 💼 Internship in a software company
 - 📱 Develop a full reactive mobile application using the latest technologies
@@ -48,7 +48,7 @@
 <details>
   <summary>🛩️ Interests and hobbies:</summary>
 
----
+<br>
 
 - **🎮 Avid Gamer:**
   Enthusiastically immersed in everything about the gaming world in most genres and platforms,
