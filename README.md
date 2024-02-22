@@ -1,17 +1,24 @@
 ### Developer Journal 📜
 
 <details>
-  <summary>✅ Accomplished (click to expand):</summary>
+  <summary>✅ Accomplished (expand to view):</summary>
 
 <br>
 
 - 📦 Develop a backend api
+   - [link](https://github.com/franciscoengenheiro/chelas-movies-database)
 - 🛠️ Develop an application with physical hardware integration
+   - [link](https://github.com/franciscoengenheiro/ticket-machine-fpga)
 - 🎨 Develop an application that uses a GUI
+   - [link](https://github.com/franciscoengenheiro/space-invaders-app)
 - 📚 Develop a simple library or set of utility functions
-- ♟️ ️Develop an online application with relevant features
+   - [link](https://github.com/decimalib/intellijdbc)
+- ♟️ ️Develop an online application with relevant features  
+   - [link](https://github.com/franciscoengenheiro/desktop-checkers-app)
 - 🌐 Develop a full stack application using the latest technologies
+   - [link](https://github.com/astral-projects/gomoku-web)
 - 📱 Develop a mobile application
+   - [link](https://github.com/astral-projects/gomoku-mobile)
 
 </details>
 
@@ -32,6 +39,7 @@
 
 - 💼 Internship in a software company
 - 📱 Develop a full reactive mobile application using the latest technologies
+- ⚙️ Develop a plugin
 - 🎓 Build a personal website
 - 🕹️ Develop an indie game with an external tool like [GameMaker](https://gamemaker.io/en) (for platformers mostly) and more advanced tools
   like [Unity](https://unity.com/) or [Unreal Engine](https://www.unrealengine.com/en-US/). It includes designing the
@@ -62,6 +70,7 @@
 - **🚴‍♂️ Cycling Lover:**
   Passionate about cycling and exploring new places on two wheels,
   with a particular interest in long-distance cycling and camping throughout the way (*biketrip*)
+   - Latest trip: [Set 2022 - Barcelona to Valencia](https://www.youtube.com/watch?v=75aUvd2DjqE)
 
 - **🌍 Passionate about National and International Politics:**
   Actively involved in staying informed and participating in discussions about both national and international political
@@ -69,6 +78,6 @@
 
 - **🌌 Space Enthusiast:**
   Fascinated by the cosmos and the mysteries of the universe,
-  with a particular interest in the latest discoveries and developments in space exploration and knowledge
+  with a particular interest in the latest discoveries and developments in space exploration
 
 </details>
