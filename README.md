@@ -5,20 +5,13 @@
 
 <br>
 
-- 📦 Develop a backend api
-   - [link](https://github.com/franciscoengenheiro/chelas-movies-database)
-- 🛠️ Develop an application with physical hardware integration
-   - [link](https://github.com/franciscoengenheiro/ticket-machine-fpga)
-- 🎨 Develop an application that uses a GUI
-   - [link](https://github.com/franciscoengenheiro/space-invaders-app)
-- 📚 Develop a simple library or set of utility functions
-   - [link](https://github.com/decimalib/intellijdbc)
-- ♟️ ️Develop an online application with relevant features  
-   - [link](https://github.com/franciscoengenheiro/desktop-checkers-app)
-- 🌐 Develop a full stack application using the latest technologies
-   - [link](https://github.com/astral-projects/gomoku-web)
-- 📱 Develop a mobile application
-   - [link](https://github.com/astral-projects/gomoku-mobile)
+- 📦 [Develop a backend api](https://github.com/franciscoengenheiro/chelas-movies-database)
+- 🛠️ [Develop an application with physical hardware integration](https://github.com/franciscoengenheiro/ticket-machine-fpga)
+- 🎨 [Develop an application that uses a GUI](https://github.com/franciscoengenheiro/space-invaders-app)
+- 📚 [Develop a simple library or set of utility functions](https://github.com/decimalib/intellijdbc)
+- ♟️ ️[Develop an online application with relevant features](https://github.com/franciscoengenheiro/desktop-checkers-app)
+- 🌐 [Develop a full stack application using the latest technologies](https://github.com/astral-projects/gomoku-web)
+- 📱 [Develop a mobile application](https://github.com/astral-projects/gomoku-mobile)
 
 </details>
 
