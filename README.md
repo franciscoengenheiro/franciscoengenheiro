@@ -22,6 +22,7 @@
 
 - 📖 Develop and support a larger and more robust library or DSL
 - 🚄 Develop a project where dynamic code generation is used to improve performance
+- ⚙️ Develop a project that uses preprocessors like KSP
 
 </details>
 
