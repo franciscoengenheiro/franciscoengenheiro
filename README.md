@@ -10,6 +10,7 @@
 - 🎨 [Develop an application that uses a GUI](https://github.com/franciscoengenheiro/space-invaders-app)
 - 📚 [Develop a simple library or set of utility functions](https://github.com/decimalib/intellijdbc)
 - ♟️ ️[Develop an online application with relevant features](https://github.com/franciscoengenheiro/desktop-checkers-app)
+- 🚄 [Develop a project where dynamic code generation is used to improve performance](https://github.com/astral-projects/autorouter)
 - 🌐 [Develop a full stack application using the latest technologies](https://github.com/astral-projects/gomoku-web)
 - 📱 [Develop a mobile application](https://github.com/astral-projects/gomoku-mobile)
 
@@ -21,7 +22,6 @@
 <br>
 
 - 📖 Develop and support a larger and more robust library or DSL
-- 🚄 Develop a project where dynamic code generation is used to improve performance
 - ⚙️ Develop a project that uses preprocessors like KSP
 
 </details>
