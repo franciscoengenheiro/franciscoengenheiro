@@ -22,7 +22,8 @@
 <br>
 
 - 📖 Develop and support a larger and more robust library or DSL
-- ⚙️ Develop a project that uses preprocessors like KSP
+- ⚙️ Develop a project that uses preprocessors in build time like KSP
+- 🤖 Work on a Machine learning or AI project
 
 </details>
 
@@ -40,7 +41,6 @@
   characters and the world, creating the story, and developing
   the game mechanics
 - 🚀 Develop, launch and maintain a fully-fledged product
-- 🤖 Work on a Machine learning or AI project
 - 📈 Work on a project that involves data analysis and visualization
 - 🖱️ Be part of an organization or team with published products
 - 🎮 Join a game development team
