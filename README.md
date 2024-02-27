@@ -75,3 +75,5 @@
   with a particular interest in the latest discoveries and developments in space exploration
 
 </details>
+
+_"Something's happening. I'm not the <ins>developer</ins> I should be. **I want more**, but I know I shouldn't"_ ~ Anakin
