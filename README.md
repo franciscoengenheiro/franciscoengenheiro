@@ -21,8 +21,10 @@
 
 <br>
 
+- 📖 Develop a project in [KMP](https://kotlinlang.org/docs/multiplatform.html)
 - 📖 Develop and support a larger and more robust library or DSL
-- ⚙️ Develop a project that uses preprocessors in build time like KSP
+- ⚙️ Develop a project that uses preprocessors in build time like [KSP](https://kotlinlang.org/docs/ksp-overview.html)
+- ☁️ Work on a Cloud Computing and Distribuited Systems project
 - 🤖 Work on a Machine learning or AI project
 
 </details>
