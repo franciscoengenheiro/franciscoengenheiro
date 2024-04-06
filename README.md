@@ -35,7 +35,9 @@
 <br>
 
 - 💼 Internship in a software company
-- 📱 Develop a full reactive mobile application using the latest technologies
+- 🐳 Publish a [docker](https://docs.docker.com/guides/walkthroughs/publish-your-image/) image
+- 🔄 Develop a [github-action](https://github.com/features/actions) and learn more about [CI](https://www.atlassian.com/continuous-delivery/continuous-integration)
+- 📱 Develop a full reactive cross-platform mobile application using the latest technologies
 - ⚙️ Develop a plugin
 - 🎓 Build a personal website
 - 🕹️ Develop an indie game with an external tool like [GameMaker](https://gamemaker.io/en) (for platformers mostly) and more advanced tools
