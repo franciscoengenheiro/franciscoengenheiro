@@ -80,4 +80,4 @@
 
 </details>
 
-_"Something's happening. I'm not the <ins>developer</ins> I should be. **I want more**, but I know I shouldn't"_ ~ Anakin
+_"Something's happening. I'm not the <ins>developer</ins> I should be. **I want more**, but I know I shouldn't"_ ~ Anakin, in Revenge of the QA Tester
